@@ -1,9 +1,9 @@
 # HotelsRatesAPI5.0
 ##Task 3: Reporting
 Environment<br/>
-Framework: .Net 5<br/>
+Framework: .Net 5<br/><br/>
 ##Editor<br/><br/>
-Visual Studio 2019
+Visual Studio 2019<br/><br/>
 ##Projects<br/><br/>
 HotelsRatesAPI5.0: .Net5 Web API  Application <br/>
 HotelsRatesAPI5.0.UnitTest: .Net NUnit Test Project<br/><br/>
